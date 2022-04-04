@@ -8,7 +8,7 @@
             <v-avatar size="100" color="indigo lighten-4">
               <v-icon size="40" color="indigo">mdi-account</v-icon>
             </v-avatar>
-            <h2 class="indigo--text">Vue login Page</h2>
+            <h2 class="indigo--text">Vue login</h2>
           </div>
           <v-form @submit.prevent="submitHandler" ref="form">
             <v-card-text>
