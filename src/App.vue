@@ -75,7 +75,7 @@ export default {
         setTimeout(()=> {
           this.loading = false
           this.snackbar = true
-        },1000)
+        },2000)
       }
     }
   }
